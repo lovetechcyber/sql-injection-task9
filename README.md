@@ -171,12 +171,7 @@ Task-9-SQL-Injection/
 │
 ├── README.md
 ├── sql_injection_exploit.sh
-├── screenshots/
-│   ├── login.png
-│   ├── sqli_test.png
-│   ├── enumeration.png
-│   └── results.png
-└── demo.mp4
+└── sql.mp4
 ```
 
 ---
